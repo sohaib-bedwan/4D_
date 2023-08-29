@@ -1,0 +1,976 @@
+
+@media (max-width: 1024px) and (min-height: 900px){
+    .show_in_mobile{
+        display: none;
+    }
+    .bg-container #waves {
+        position: absolute;
+        top: 500px;
+        left: 0;
+    }
+    .header{
+        margin-top: 0;
+        height: auto;
+    }
+    .header h1{
+        font-size: 60px;
+        margin-bottom: 60px;
+    }
+    .header p{
+        width: 85%;
+        font-size: 30px;
+    }
+    .inner-nav .section-nav ul{
+        width: 100%;
+    }
+    .inner-nav .section-nav ul li{
+        font-size: 25px;
+        padding: 15px 10px;
+    }
+    .left_slider .row, .right_slider .row{
+        height: 50vh;
+        padding: 10vh 0;
+    }
+    .slider .rounded-circle{
+        width: 400px;
+        height: 400px;
+        padding-top: 110px;
+    }
+    .slider .title-bg{
+        top: -30px;
+        right: -50px;
+    }
+    .slider .title-text{
+        top: 60px;
+        right: 95px;
+    }
+    .slider .carousel-item{
+        padding: 0 50px;
+    }
+    .carousel-indicators{
+        margin: 0 5%;
+    }
+    .right_slider .list{
+        text-align: left;
+    }
+    .left_slider .list{
+        text-align: right;
+    }
+    .left_slider .list ul, .right_slider .list ul{
+        padding-left: 0px;
+        margin-left: 5%;
+    }
+    .left_slider .list ul li, .right_slider .list ul li{
+        font-size: 28px;
+    }
+    .left_slider .list ul li.active, .right_slider .list ul li.active{
+        font-size: 30px;
+    }
+    .life_style .slider .title-text{
+        right: 70px;
+    }
+    .womens_fatwa .slider .title-text {
+        right: 80px;
+        top: 70px;
+    }
+    .wedding_steps{
+        height: 50vh;
+    }
+    .all_steps .step_cont .step{
+        width: 110px;
+        height: 130px;
+        padding: 20px 5px;
+        margin-right: 20px;
+    }
+    .all_steps .step_cont .step h5{
+        font-size: 17px;
+    }
+    .all_steps .step_cont i{
+        right: 5px;
+    }
+    .steps_details{
+        height: 50vh;
+    }
+    .steps_details h3 {
+        font-size: 36px;
+        font-weight: bold;
+    }
+    .steps_details p {
+        font-size: 23px;
+    }
+    .steps_details .owl-carousel .item .owl_img_cont {
+        width: 120px;
+        height: 170px;
+    }
+    .steps_details .text-details h3{
+        text-align: center;
+    }
+    .steps_details .text-details p{
+        margin: 0 auto;
+    }
+    .testimonial .testi {
+        margin: 0;
+        padding: 20px;
+    }
+    #fun .chances .title-text {
+        top: 40px;
+        right: 90px;
+        line-height: 1;
+    }
+    #fun .competitions .title-text {
+        top: 63px;
+        right: 80px;
+    }
+    #culture .inner-nav .section-nav ul li {
+        font-size: 20px;
+    }
+    #culture .films .slider .title-text {
+        top: 45px;
+        right: 70px;
+        font-size: 23px;
+        line-height: 1;
+    }
+    #culture .question .slider .title-text, #culture .arts .slider .title-text, #culture .wisdom .slider .title-text {
+        top: 40px;
+        right: 85px;
+        line-height: 1;
+    }
+    #culture .storys .slider .title-text {
+        top: 40px;
+        right: 80px;
+        line-height: 1;
+    }
+    #sport .inner-nav .section-nav ul li {
+        font-size: 20px;
+    }
+    #sport .inner-nav .section-nav [data-section="league_table"] {
+        padding: 22px 0px;
+    }
+    #sport .slider .title-text {
+        right: 80px;
+    }
+    #sport .transfers .slider .title-text ,
+    #sport .analysis .slider .title-text ,
+    #sport .match_table .slider .title-text ,
+    #sport .clubs .slider .title-text ,
+    #sport .international .slider .title-text ,
+    #sport .westling .slider .title-text {
+        top: 45px;
+        right: 80px;
+        text-align: center;
+        line-height: 1;
+    }
+    #sport .league_table .slider .title-text {
+        right: 80px;
+        top: 35px;
+        text-align: center;
+        line-height: 0.8;
+    }
+    #techno .slider .title-text {
+        right: 75px;
+    }
+    #techno .company_news .slider .title-text, #techno .tv .slider .title-text, #techno .chip_systim .slider .title-text, #techno .smart_phone .slider .title-text {
+        line-height: 1.1;
+        top: 45px;
+        right: 80px;
+        text-align: center;
+    }
+    #techno .accessories .slider .title-text {
+        line-height: 1.3;
+        top: 50px;
+        right: 75px;
+        font-size: 22px;
+        text-align: center;
+    }
+    #techno .smart_watches .slider .title-text, #techno .apps .slider .title-text, #techno .virtual_reality .slider .title-text {
+        right: 85px;
+        line-height: 1.3;
+        top: 45px;
+        font-size: 22px;
+        text-align: center;
+    }
+    #techno .tv .slider .title-text{
+        line-height: 1.1;
+        top: 45px;
+        right: 100px;
+        text-align: center;
+    }
+    #techno .social_media .slider .title-text,
+    #techno .techno_news .slider .title-text,
+    #techno .artificial_intelligence .slider .title-text {
+        line-height: 1.3;
+        top: 45px;
+        right: 80px;
+        font-size: 22px;
+        text-align: center;
+    }
+    #techno .company_news .slider .title-text{
+        line-height: 1.1;
+        top: 45px;
+        right: 80px;
+        text-align: center;
+    }
+}
+@media (max-width: 768px){
+    .show_in_mobile{
+        display: none;
+    }
+    .bg-container svg {
+        width: 130%;
+        height: 100%;
+    }
+    .nav-item{
+        margin: 0 0.5rem;
+    }
+    .navbar-light .navbar-brand{
+        margin: 20px auto;
+    }
+    .right-fixed {
+        bottom: 0;
+    }
+    .header h1 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .header p {
+        width: 90%;
+        font-size: 25px;
+    }
+    .inner-nav .section-nav ul li {
+        font-size: 20px;
+        padding: 10px 5px;
+    }
+    .slider .rounded-circle {
+        width: 340px;
+        height: 340px;
+        padding-top: 90px;
+    }
+    .slider .title-bg {
+        top: -50px;
+        right: -70px;
+    }
+    .slider .title-text {
+        top: 40px;
+        right: 75px;
+    }
+    .slider .carousel-item {
+        padding: 0 30px;
+    }
+    .slider .carousel-item svg {
+        width: 80%;
+        margin-top: -40px;
+    }
+    .life_style .slider .title-text {
+        right: 50px;
+    }
+    .womens_fatwa .slider .title-text {
+        right: 60px;
+        top: 50px;
+    }
+    .carousel-indicators {
+        margin: 0
+    }
+    .carousel-indicators div[data-bs-target] {
+        margin-right: -55px;
+    }
+    .carousel-indicators div[data-bs-target]:nth-of-type(1) {
+        transform: rotate(40deg);
+    }
+    .carousel-indicators div[data-bs-target]:nth-of-type(2){
+        transform: rotate(-40deg);
+    }
+    .left_slider .list ul li, .right_slider .list ul li,
+    .left_slider .list ul li.active, .right_slider .list ul li.active {
+        font-size: 23px;
+    }
+    .left_slider .list ul {
+        padding-right: 20px;
+    }
+    .all_steps .step_cont .step {
+        width: 90px;
+        height: 120px;
+        padding: 10px 5px;
+        margin-right: 10px;
+    }
+    .all_steps .step_cont .step h5 {
+        margin-top: 10px;
+    }
+    .steps_details h3 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .steps_details {
+        height: auto;
+    }
+    .testimonial .testi {
+        margin: 0;
+        padding: 20px;
+    }
+    #fun .chances .title-text {
+        top: 30px;
+        right: 80px;
+        line-height: 1;
+        font-size: 26px;
+    }
+    #fun .competitions .title-text {
+        top: 40px;
+        right: 60px;
+    }
+    #culture .inner-nav .section-nav i{
+        display: block;
+        left: 10px;
+    }
+    #culture .films .slider .title-text {
+        top: 35px;
+        right: 65px;
+        font-size: 23px;
+        line-height: 1;
+    }
+    #world .cities .slider .title-text, #world .milestones .slider .title-text,
+    #culture .question .slider .title-text, #culture .arts .slider .title-text, #culture .wisdom .slider .title-text {
+        top: 25px;
+        right: 75px;
+        line-height: 1;
+    }
+    #culture .storys .slider .title-text {
+        top: 28px;
+        right: 70px;
+        line-height: 1;
+    }
+    #sport .slider .title-text {
+        right: 70px;
+    }
+    #sport .basketball .slider .title-text ,
+    #sport .latest_news .slider .title-text {
+        right: 60px;
+    }
+    #sport .transfers .slider .title-text, #sport .analysis .slider .title-text, #sport .match_table .slider .title-text, #sport .clubs .slider .title-text, #sport .international .slider .title-text, #sport .westling .slider .title-text {
+        top: 35px;
+        right: 70px;
+        text-align: center;
+        line-height: 1;
+        font-size: 22px;
+    }
+    #sport .league_table .slider .title-text {
+        right: 70px;
+        top: 25px;
+        text-align: center;
+        line-height: 0.8;
+        font-size: 22px;
+    }
+    #techno .inner-nav .section-nav ul li {
+        font-size: 21px;
+        padding: 20px 0px;
+    }
+    #techno .slider .title-text {
+        right: 60px;
+    }
+    #techno .slider .carousel-item p {
+        text-align: center;
+        max-height: 80px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-bottom: 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+    #techno .company_news .slider .title-text,
+    #techno .tv .slider .title-text,
+    #techno .chip_systim .slider .title-text,
+    #techno .smart_phone .slider .title-text {
+        line-height: 1.1;
+        top: 30px;
+        right: 80px;
+        font-size: 22px;
+        text-align: center;
+    }
+    #techno .accessories .slider .title-text {
+        line-height: 1.3;
+        top: 35px;
+        right: 65px;
+        font-size: 18px;
+        text-align: center;
+    }
+    #techno .smart_watches .slider .title-text,
+    #techno .apps .slider .title-text,
+    #techno .virtual_reality .slider .title-text {
+        right: 70px;
+        line-height: 1.3;
+        top: 25px;
+        font-size: 20px;
+        text-align: center;
+    }
+    #techno .social_media .slider .title-text,
+    #techno .techno_news .slider .title-text,
+    #techno .artificial_intelligence .slider .title-text {
+        line-height: 1.1;
+        top: 35px;
+        right: 70px;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media (max-width: 576px){
+    .bg-container svg {
+        width: 300%;
+        height: 100%;
+    }
+    .navbar{
+        display: block;
+    }
+    .navbar-expand-lg .navbar-nav{
+        padding: 0;
+    }
+    .navbar-light .navbar-brand{
+        text-align: center;
+        display: block;
+        margin: 20px auto;
+    }
+    .navbar-light .navbar-brand svg{
+        width: 100px;
+        height: 70px;
+    }
+    .navbar-light .navbar-brand img{
+        width: 117px;
+        height: 69px;
+    }
+    .nav-item{
+        width: 88px;
+        height: 28px;
+        font-size: 14px;
+    }
+    .header{
+        margin-top: 0;
+        height: auto;
+    }
+    .header h1 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .header p {
+    width: 85%;
+    font-size: 18px;
+    }
+    .right-fixed {
+        right: -20px;
+        bottom: -70px;
+    }
+    .right-fixed .social i {
+        margin: 20px 0;
+        font-size: 12px;
+    }
+    .inner-nav #main-avatar{
+        width: 80%
+    }
+    .inner-nav .section-nav i{
+        display: block;
+    }
+    .inner-nav .section-nav ul{
+        width: 100%;
+        margin: 0;
+    }
+    .inner-nav .section-nav ul li {
+        font-size: 12px;
+        padding: 10px 0px;
+        border-radius: 15px;
+    }
+    .slider .rounded-circle {
+        width: 310px;
+        height: 310px;
+        padding-top: 80px;
+    }
+    .slider .title-bg {
+        top: -40px;
+        right: -50px;
+        width: 190px;
+        height: 70px;
+    }
+    .slider .title-text {
+        font-size: 21px;
+        top: 35px;
+    }
+    .carousel-indicators {
+        left: 0;
+    }
+    .left_slider .carousel-indicators {
+        left: unset;
+        right: 0;
+    }
+    .left_slider .list ul, .right_slider .list ul{
+        padding: 0;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .womens_fatwa .slider .title-text {
+        right: 55px;
+        top: 40px;
+        font-size: 18px;
+    }
+    .all_steps .step_cont{
+        margin-top: 10px;
+    }
+    .all_steps .step_cont i{
+        right: 5px;
+        top: 45%;
+    }
+    .all_steps .steps_way{
+        height: 20%;
+        top: 25%;
+    }
+    .all_steps .steps_way.mobile_way{
+        display: block;
+        top: 75%;
+    }
+    .all_steps .step_cont .step h5 {
+        font-size: 18px;
+    }
+    .all_steps .row{
+        margin: auto;
+    }
+    .mobile-hiddin{
+        display: none;
+    }
+    .second_row .steps_way{
+        width: 100%;
+    }
+    .second_row .steps_way.mobile_way{
+        width: 75%;
+        margin: auto;
+    }
+    .show_in_mobile{
+        display: block;
+    }
+    .all_steps .step_cont.last-col i {
+        right: -10px;
+    }
+    .steps_details {
+        height: auto;
+        text-align: center;
+    }
+    .steps_details .outer_link{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .steps_details .owl-carousel {
+        padding: 0 20px;
+    }
+    .steps_details .owl-carousel .owl-nav {
+        right: -5px;
+    }
+    .steps_details .text-details h3 {
+        font-size: 33px;
+    }
+    .steps_details .text-details p {
+        width: 90%;
+        margin: auto;
+    }
+    .my_baby .baby_step.active {
+        margin-top: 30px;
+    }
+    .my_baby .collaps_container {
+        margin: auto;
+    }
+    .testimonial .testi {
+        margin: 0;
+        padding: 20px;
+    }
+    .testimonial .item p {
+        font-size: 25px;
+        width: 75%;
+        margin: 0;
+    }
+    .testimonial .item p {
+        font-size: 25px;
+        width: 100%;
+    }
+    .mail .mail-form input {
+        width: 350px;
+    }
+    .mail .mail-form button {
+        width: 90px;
+    }
+    footer{
+        text-align: center;
+    }
+    footer p {
+        margin: 10px auto;
+    }
+    footer .footer-links .contact{
+        text-align: right;
+    }
+    footer .footer-links .contact h3{
+        margin: 20px 0;
+    }
+    footer .footer-links h6 {
+        font-size: 14px;
+    }
+    #fun .chances .title-text {
+        top: 25px;
+        right: 75px;
+        line-height: 1;
+        font-size: 20px;
+    }
+    #culture .inner-nav .section-nav ul li{
+        font-size: 18px;
+    }
+    #culture .inner-nav .section-nav ul li[data-section="storys"],
+    #culture .inner-nav .section-nav ul li[data-section="films"]{
+        font-size: 15px;
+    }
+    #culture .films .slider .title-text {
+        top: 30px;
+        right: 60px;
+        font-size: 17px;
+    }
+    #culture .inner-nav .section-nav i{
+        color: blue;
+    }
+    #sport .inner-nav .section-nav i{
+        left: 5px;
+    }
+    #sport .transfers .slider .title-text, #sport .analysis .slider .title-text, #sport .match_table .slider .title-text, #sport .clubs .slider .title-text, #sport .international .slider .title-text, #sport .westling .slider .title-text {
+        top: 25px;
+        right: 60px;
+        text-align: center;
+        line-height: 1;
+        font-size: 22px;
+    }
+    #sport .league_table .slider .title-text {
+        right: 60px;
+        top: 15px;
+    }
+    #techno .inner-nav .section-nav ul li {
+        font-size: 16px;
+        padding: 20px 0px;
+    }
+    #techno .company_news .slider .title-text, #techno .tv .slider .title-text, #techno .chip_systim .slider .title-text, #techno .smart_phone .slider .title-text {
+        line-height: 1.1;
+        top: 25px;
+        right: 65px;
+        font-size: 20px;
+        text-align: center;
+    }
+    #techno .accessories .slider .title-text {
+        line-height: 1.3;
+        top: 30px;
+        right: 60px;
+        font-size: 15px;
+        text-align: center;
+    }
+    #techno .smart_watches .slider .title-text, #techno .apps .slider .title-text, #techno .virtual_reality .slider .title-text {
+        right: 65px;
+        line-height: 1.3;
+        top: 25px;
+        font-size: 18px;
+        text-align: center;
+    }
+    #techno .tv .slider .title-text {
+        right: 75px;
+    }
+    #techno .social_media .slider .title-text, #techno .techno_news .slider .title-text, #techno .artificial_intelligence .slider .title-text {
+        line-height: 1.1;
+        top: 30px;
+        right: 60px;
+        font-size: 18px;
+        text-align: center;
+    }
+}
+@media (max-width: 375px){
+    .right-fixed {
+        bottom: 0;
+    }
+    .header p {
+        width: 90%;
+    }
+    .inner-nav .section-nav ul li {
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    .slider .rounded-circle {
+        width: 290px;
+        height: 290px;
+        padding-top: 70px;
+    }
+    .steps_details .owl-carousel .item .owl_img_cont {
+        width: 150px;
+        height: 190px;
+    }
+    .slider .carousel-item p {
+        text-align: center;
+        max-height: 80px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-bottom: 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+    #culture .inner-nav .section-nav ul li[data-section="storys"], #culture .inner-nav .section-nav ul li[data-section="films"] {
+        font-size: 14px;
+        padding: 23px 10px;
+    }
+    #culture .question .slider .title-text, #culture .arts .slider .title-text, #culture .wisdom .slider .title-text {
+        top: 20px;
+        font-size: 18px;
+        right: 70px;
+        line-height: 1;
+    }
+}
+@media (max-width: 320px){
+    .bg-container svg{
+        width: 320%;
+    }
+    .right-fixed {
+        bottom: 20px;
+    }
+    .navbar-light .navbar-brand {
+        margin: 10px auto;
+    }
+    .header h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .search_div input, .search_div select{
+        width: 120px;
+        height: 40px;
+    }
+    .inner-nav .container{
+        padding: 0;
+    }
+    .inner-nav .section-nav ul li{
+        font-size: 14px;
+    }
+    .mail .mail-form input {
+        width: 290px;
+    }
+    .slider .rounded-circle {
+        width: 250px;
+        height: 250px;
+        padding-top: 30px;
+    }
+    /* .slider .title-bg {
+        top: -80px;
+        right: -30px;
+    } */
+    .slider .title-bg {
+        top: -50px;
+        right: -70px;
+    }
+    .slider .title-text {
+        top: 30px;
+        right: 55px;
+    }
+    /* .slider .title-text {
+        top: 0;
+        right: 95px;
+    } */
+    .slider .carousel-item {
+        padding: 0 30px;
+        padding-top: 30px;
+    }
+    .slider .carousel-item p {
+        text-align: center;
+        max-height: 80px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-bottom: 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
+    .slider .carousel-item .sm-copy{
+        text-align: center;
+    }
+    /* .slider .carousel-item svg {
+        width: 60%;
+        margin-top: -30px;
+    } */
+    /* .slider .carousel-item svg {
+        width: 60%;
+        margin-top: -30px;
+        height: 190px;
+    } */
+    .slider .carousel-item svg {
+        width: 100%;
+        margin-top: 0px;
+        height: auto;
+    }
+    .carousel-indicators [data-bs-target]{
+        margin: 10px auto;
+    }
+    .carousel-indicators div[data-bs-target]:nth-of-type(1) {
+        transform: rotate(50deg);
+    }
+    .carousel-indicators div[data-bs-target]:nth-of-type(2) {
+        transform: rotate(-50deg);
+    }
+    .left_slider .carousel-indicators div[data-bs-target]:nth-of-type(1) {
+        transform: rotate(-50deg);
+    }
+    .left_slider .carousel-indicators div[data-bs-target]:nth-of-type(2) {
+        transform: rotate(50deg);
+    }
+    .left_slider .list ul, .right_slider .list ul {
+        padding: 0;
+        margin: 25px 15px;
+    }
+    .left_slider .list svg, .right_slider .list svg{
+        width: 40px;
+    }
+    .left_slider .list{
+        text-align: right;
+    }
+    .right_slider .list{
+        text-align: left;
+    }
+    .left_slider .carousel-indicators div[data-bs-target] {
+        margin-left: -55px;
+    }
+    
+    .life_style .slider .title-text {
+        right: 50px;
+        top: 30px;
+        font-size: 16px;
+    }
+    .womens_fatwa .slider .title-text {
+        right: 40px;
+        top: 30px;
+        font-size: 16px;
+    }
+    .all_steps .step_cont .step {
+        width: 70px;
+        height: 100px;
+    }
+    .all_steps .step_cont .step svg {
+        width: 30px;
+        height: 30px;
+    }
+    .steps_details .owl-carousel .item .owl_img_cont {
+        width: 120px;
+        height: 160px;
+    }
+    .steps_details .text-details h3 {
+        font-size: 23px;
+    }
+    .testimonial .item p {
+        font-size: 20px;
+    }
+
+    #fun .chances .title-text {
+        top: 10px;
+        right: 85px;
+        line-height: 1;
+        font-size: 15px;
+    }
+    .title-text br{
+        display: none;
+    }
+    #fun .competitions .title-text {
+        top: 0px;
+        right: 84px;
+    }
+    
+    #culture .inner-nav .section-nav ul li{
+        font-size: 16px;
+    }
+    #culture .inner-nav .section-nav ul li[data-section="storys"],
+    #culture .inner-nav .section-nav ul li[data-section="films"]{
+        font-size: 13px;
+    }
+    #culture .films .slider .title-text {
+        top: 30px;
+        right: 60px;
+        font-size: 17px;
+    }
+    #culture .inner-nav .section-nav i{
+        color: blue;
+    }
+    /* #culture .question .slider .title-text, #culture .arts .slider .title-text, #culture .wisdom .slider .title-text {
+        top: 7px;
+        font-size: 18px;
+        right: 80px;
+        line-height: 1;
+    } */
+    #culture .storys .slider .title-text {
+        top: 35px;
+        right: 38px;
+        font-size: 14px;
+        line-height: 1;
+    }
+    #culture .films .slider .title-text {
+        top: 40px;
+        right: 40px;
+        font-size: 13px;
+    }
+    #world .inner-nav .section-nav ul li {
+        padding: 20px 10px;
+        font-size: 20px;
+    }
+    #world .cities .slider .title-text, #world .milestones .slider .title-text, #culture .question .slider .title-text, #culture .arts .slider .title-text, #culture .wisdom .slider .title-text {
+        top: 35px;
+        right: 45px;
+        line-height: 1;
+        font-size: 16px;
+    }
+    #sport .basketball .slider .title-text, #sport .latest_news .slider .title-text ,
+    #sport .slider .title-text {
+        right: 50px;
+        font-size: 18px;
+    }
+    #sport .tennis .slider .title-text {
+        right: 60px;
+    }
+    #techno .title-text br,
+    #sport .title-text br{
+        display: block;
+    }
+    #sport .transfers .slider .title-text, #sport .analysis .slider .title-text, #sport .match_table .slider .title-text, #sport .clubs .slider .title-text, #sport .international .slider .title-text, #sport .westling .slider .title-text {
+        top: 20px;
+        right: 50px;
+        text-align: center;
+        line-height: 1;
+        font-size: 20px;
+    }
+    #sport .league_table .slider .title-text {
+        right: 55px;
+        top: 15px;
+        font-size: 18px;
+    }
+
+    #techno .slider .title-text {
+        right: 50px;
+        font-size: 18px;
+    }
+    #techno .company_news .slider .title-text, #techno .tv .slider .title-text, #techno .chip_systim .slider .title-text, #techno .smart_phone .slider .title-text {
+        line-height: 1.1;
+        top: 25px;
+        right: 55px;
+        font-size: 16px;
+        text-align: center;
+    }
+    #techno .tv .slider .title-text {
+        right: 65px;
+    }
+    #techno .accessories .slider .title-text {
+        line-height: 1.3;
+        top: 25px;
+        right: 50px;
+        font-size: 13px;
+        text-align: center;
+    }
+    #techno .smart_watches .slider .title-text, #techno .apps .slider .title-text, #techno .virtual_reality .slider .title-text {
+        right: 50px;
+        line-height: 1.3;
+        top: 20px;
+        font-size: 15px;
+        text-align: center;
+    }
+    #techno .social_media .slider .title-text, #techno .techno_news .slider .title-text, #techno .artificial_intelligence .slider .title-text {
+        line-height: 1.1;
+        top: 20px;
+        right: 50px;
+        font-size: 15px;
+        text-align: center;
+    }
+}
